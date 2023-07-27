@@ -1,6 +1,10 @@
-## To try project
+# Project website
 https://haram-react-projects.web.app/
 Local storage is used to save data rather than Database
+
+## Component Tree
+
+![component tree](https://github.com/nuGeek/emo-diary/assets/75866626/0fccdd8c-997b-4042-8ac8-330a9b395c0c)
 
 # Getting Started with Create React App
 
