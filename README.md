@@ -1,3 +1,7 @@
+## To try project
+https://haram-react-projects.web.app/
+Local storage is used to save data rather than Database
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
